@@ -47,12 +47,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer proficient in TypeScript, 
-        JavaScript, React, Node.js, and Three.js. I have expertise in AI, ML, 
-        and data science, with experience in TensorFlow, PyTorch, scikit-learn,
-         and Python for data analysis and modeling. I collaborate closely with 
-         clients to create efficient, scalable, and user-friendly solutions that
-          solve real-world problems. Let's bring your ideas to life!
+        Results-driven software engineer with a Bachelor's degree in Computer Engineering 
+        and experience in web development, artificial intelligence, and data analysis. 
+        Proficient in Python, C, TypeScript, and various frameworks, with a strong background
+         in developing innovative solutions in logistics and healthcare. Passionate about 
+         leveraging technical expertise to contribute to the growth and success of a dynamic 
+         organization while continuing to learn and excel in the field of software engineering.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
