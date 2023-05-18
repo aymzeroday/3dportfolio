@@ -36,6 +36,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import twitter from "./twitter.png";
+import asl from "./asl.png";
+import breast from "./breast.png";
+
 export {
   logo,
   backend,
@@ -69,4 +73,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  breast,
+  asl,
+  twitter
 };

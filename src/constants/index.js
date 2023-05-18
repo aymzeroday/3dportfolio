@@ -26,6 +26,9 @@ import {
   carrent,
   jobit,
   tripguide,
+  breast,
+  asl,
+  twitter,
   threejs,
 } from "../assets";
 
@@ -181,66 +184,66 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Breast Cancer Detection",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Developed an autonomous intelligent system to study and classify cancer in breast tissue histology images.",
     tags: [
       {
-        name: "react",
+        name: "OpenCv",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Python",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "TensorFlow",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: breast,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "ASL Translator",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Developed a real-time sign language translation system using machine learning and infrared image processing.",
     tags: [
       {
-        name: "react",
+        name: "LeapMotion",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "MobileNet",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Keras",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: asl,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Twitter Media Bot",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A bot that tweets JPG and PNG images intelligently from reddit",
     tags: [
       {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
+        name: "nodeJS",
         color: "green-text-gradient",
       },
       {
-        name: "css",
-        color: "pink-text-gradient",
+        name: "RestAPI",
+        color: "green-text-gradient",
+      },
+      {
+        name: "TwitAPI",
+        color: "blue-text-gradient",
       },
     ],
-    image: tripguide,
+    image: twitter,
     source_code_link: "https://github.com/",
   },
 ];
