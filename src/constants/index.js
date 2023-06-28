@@ -158,27 +158,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Has exceeded Expectations in working with new technologies and always over delivers and thinks outside the box",
+      "Highly skilled and proactive junior software engineer with a strong grasp of full-stack development, consistently providing innovative solutions and exceeding expectations.",
     name: "Taha Ismail",
     designation: "Senior Software Engineer",
-    company: "Agility Logistics",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    company: "Agility Logistics - GCS",
+    image: "../../src/assets/company/taha.jpg",
   },
   {
     testimonial:
-      "Ahmad prepares impressive AI models and project ideas to add to the company",
+      "A valuable asset to the team, this junior software engineer showcases remarkable adaptability, quick learning, and a keen eye for detail, contributing to successful project outcomes.",
     name: "Ashraf Allam",
     designation: "PMO",
-    company: "Agility Logistics",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    company: "Agility Logistics - GCS",
+    image: "../../src/assets/company/agility.png",
   },
   {
     testimonial:
-      "A bright Engineer, Eagr to learn and implement new technologies in all fields",
+      "An exceptional junior software engineer who consistently delivers high-quality code and demonstrates a deep understanding of data science and artificial intelligence concepts.",
     name: "Ahmed Seif",
     designation: "Project Lead",
-    company: "Agility Logistics",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    company: "Agility Logistics - GCS",
+    image: "../../src/assets/company/seif.jpg",
   },
 ];
 

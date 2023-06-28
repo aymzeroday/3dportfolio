@@ -42,7 +42,7 @@ const Contact = () => {
         'template_1ovpsgg',
         {
           from_name: form.name,
-          to_name: "Ahmed",
+          to_name: "Ahmad",
           from_email: form.email,
           to_email: "aymzeroday@gmail.com",
           message: form.message,
